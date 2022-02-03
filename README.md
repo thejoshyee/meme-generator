@@ -15,18 +15,9 @@ custom memes. The API displays 100 of the top memes.
 ## Preview
 <img src="https://github.com/thejoshyee/meme-generator/blob/main/meme-generator.png" width="50%" />
 
-Quick start:
-
+## Live Demo
 ```
-$ npm install
-$ npm run build
+https://thejoshyee.github.io/meme-generator/
 ````
 
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ npm run watch
-```
 
