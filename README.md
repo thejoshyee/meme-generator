@@ -16,7 +16,6 @@ custom memes. The API displays 100 of the top memes.
 <img src="https://github.com/thejoshyee/meme-generator/blob/main/meme-generator.png" width="50%" />
 
 ## Live Demo
-https://thejoshyee.github.io/meme-generator/
-
+https://whispering-journey-75526.herokuapp.com/
 
 
