@@ -13,7 +13,7 @@ custom memes. The API displays 100 of the top memes.
 	- Side Effects
 
 ## Preview
-<img src="https://github.com/thejoshyee/meme-generator/blob/main/meme-generator.png" width="50%" />
+<img src="https://github.com/thejoshyee/meme-generator/blob/main/meme-generator-preview.png?raw=true" width="50%" />
 
 ## Live Demo
 https://whispering-journey-75526.herokuapp.com/
